@@ -27,7 +27,6 @@
 /persist       ext4    /dev/block/bootdevice/by-name/persist                   flags=display="Persist";backup=1;wipeingui
 /persist_image emmc    /dev/block/bootdevice/by-name/persist                   flags=display="Persist";flashimg=1
 #ext
-/abl            emmc    /dev/block/bootdevice/by-name/abl                      flags=display="abl";backup=1
 /cmnlib		    emmc	/dev/block/bootdevice/by-name/cmnlib                   flags=display="cmnlib";backup=1
 /hyp		    emmc	/dev/block/bootdevice/by-name/hyp                      flags=display="hyp";backup=1
 /tz		        emmc	/dev/block/bootdevice/by-name/tz                       flags=display="tz";backup=1
