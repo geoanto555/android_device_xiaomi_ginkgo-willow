@@ -23,7 +23,7 @@ Working :
                                     
 ADB                                           
 
-Decryption userdata                 
+Decryption userdata android 10 - 11            
 
 Screen brightness settings
 
